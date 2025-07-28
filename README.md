@@ -1,4 +1,3 @@
-
 # 📊 Sales and Marketing Campaign Dashboard – Power BI
 
 This Power BI dashboard provides insights into marketing campaign performance, ad engagement, and customer interest based on demographic segmentation (age and gender) for Q3 2017.
@@ -17,7 +16,7 @@ This Power BI dashboard provides insights into marketing campaign performance, a
 - Data Cleaning and Transformation
 
 ## 🔗 View / Download the Power BI Dashboard
-👉 [Click here to download the Power BI report (.pbix)](https://drive.google.com/file/d/your-file-id/view?usp=sharing)
+👉 [Click here to download the Power BI report (.pbix)](https://drive.google.com/drive/folders/1-gIB28VHDxChBjJMOJE1aTbSzntDuAfS?usp=sharing)
 
 ## 💡 Author
-Soumyasri Vaidugula – Junior Software Engineer | Data Enthusiast
+**Soumyasri Vaidugula** – Junior Software Engineer | Data Enthusiast
